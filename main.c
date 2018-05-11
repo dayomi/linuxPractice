@@ -1,7 +1,8 @@
 #include "diary.h"
-int main(){
+
+int main()
+{
 	memo();
 	calendar();
 	return 0;
 }
-
